@@ -4,9 +4,9 @@
 
 ![MiniMe-MCP Logo](https://img.shields.io/badge/MiniMe--MCP-v0.5.4-blue?style=for-the-badge&logo=brain&logoColor=white)
 
-## 🚀 **Oops! You've landed on an old URL** 🚀
+## 🚀 **We're scaling up to meet the awesome demand!** 🚀
 
-### The memory intelligence awaits you at the new location!
+### View the [new repo here](https://github.com/manujbawa/minime-mcp), and transform the way you vibe-code!
 
 ---
 
